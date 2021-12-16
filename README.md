@@ -16,7 +16,7 @@ This is not a church 삼선동4가37 (구)명성교회
 ## **_Mosquitojuice_**
 *2022, 1 Channel Video, Sound, 33 min, HD, Screening and Collaborations*
 
-  ###### 이상화
+  ###### 이상화 〈Injury〉 digital sound(2’36”), 인식표, EMT 가위, 2021 
   
   ###### 이솔엽
   
