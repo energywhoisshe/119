@@ -14,8 +14,8 @@ This is not a church 삼선동4가37 (구)명성교회
 
 - - -
 
-**_Mosquitojuice_**
-*_2022, 1 Channel Video, Sound, 33 min, HD, Screening and Collaborations*
+## **_Mosquitojuice_**
+*2022, 1 Channel Video, Sound, 33 min, HD, Screening and Collaborations*
 
   ###### 이상화
   
@@ -45,8 +45,8 @@ This is not a church 삼선동4가37 (구)명성교회
 
 - - -
 
-**_집을 지키는 사람들_**
-*_2021, Interactive Random Fiction on PC, Playtime about 3 ~ 33 min*
+## **_집을 지키는 사람들_**
+*2021, Interactive Random Fiction on PC, Playtime about 3 ~ 33 min*
 ```
   인용 및 참고 문헌
   - 《EMDR 마음의 상처 치유하기 EMDR in the Treatment of Adults Abused as Children》(Laurel Parnell PhD, 김준기 외 2인 옮김, 수오서재, 2021) 
