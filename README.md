@@ -16,31 +16,43 @@ This is not a church 삼선동4가37 (구)명성교회
 ## **_Mosquitojuice_**
 *2022, 1 Channel Video, Sound, 33 min, HD, Screening and Collaborations*
 
-  `이상화 〈Injury〉 digital sound(2’36”), 인식표, EMT 가위, 2021`
+  ```
+  이상화 〈Injury〉 digital sound(2’36”), 인식표, EMT 가위, 2021`
   
-  `이솔엽`
- 
-  `박민영`
+  이솔엽 〈해군아 클럽가자〉 digital sound(5’05”), 군번줄, 제76기 해군사관생도 수양록, 2021
+  ```
   
-  `임다울`
+  ```
+  박민영 〈만날 뻔해서 반갑습니다〉
   
-  `유명민`
+  임다울 〈〉
+  ```
   
-  `이윤수`
+  ```
+  유명민
   
-  `안현진`
+  이윤수
+  ```
   
-  `최혜라`
+  ```
+  안현진
   
-  `박주현`
+  최혜라
+  ```
   
-  `강예빈`
+  ```
+  박주현
   
-  `김해영`
+  강예빈
   
-  `김호정`
+  김해영
+  ```
   
-  `(최효정)`
+  ```
+  김호정 〈light survival〉
+  
+  (최효정 〈I’ll Promise To Find The Way Out〉 2016~2020)
+  ```
 
 
 ## **_집을 지키는 사람들_**
