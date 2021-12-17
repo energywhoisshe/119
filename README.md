@@ -19,34 +19,39 @@ This is not a church 삼선동4가37 (구)명성교회
 
 ![tinc 작품도면](https://user-images.githubusercontent.com/90887934/146549692-0aeb3071-3b72-4928-962b-34981e94947e.png)
 
-## **_Mosquitojuice_**
+## **_A. Mosquitojuice_**
 *2022, 1 Channel Video, Sound, 29 min 19 sec, HD, Screening and Collaborations*
 
   ```
+  a
   이상화 〈Injury〉 digital sound(2’36”), 인식표, EMT 가위, 2021`
   
   이솔엽 〈해군아 클럽가자〉 digital sound(5’05”), 군번줄, 제76기 해군사관생도 수양록, 2021
   ```
   
   ```
+  b
   박민영 〈만날 뻔해서 반갑습니다〉
   
   임다울 〈〉
   ```
   
   ```
+  c
   유명민
   
   이윤수
   ```
   
   ```
+  d
   안현진
   
   최혜라
   ```
   
   ```
+  e
   박주현
   
   강예빈
@@ -55,13 +60,14 @@ This is not a church 삼선동4가37 (구)명성교회
   ```
   
   ```
+  f
   김호정 〈light survival〉
   
   (최효정 〈I’ll Promise To Find The Way Out〉 2016~2020)
   ```
 
 
-## **_집을 지키는 사람들_**
+## **_B. 집을 지키는 사람들_**
 *2021, Interactive Random Fiction on PC, Playtime about 3 ~ 13 min*
 ```
   인용 및 참고 문헌
