@@ -145,7 +145,7 @@ This is not a church 삼선동4가37 (구)명성교회
 
 - - -
 
-###### * Last updated on 17 DEC 2021 / Web manager : <energywhoisshe@gmail.com> *
+###### *Last updated on 17 DEC 2021 / Web manager : <energywhoisshe@gmail.com>*
 
 
 [^1]: ‘사랑의 길’은 소방 훈련가이다. ‘그대 소방을 왜 선택했나 / 멋진 사랑을 하고 싶어서 / 그런 사랑을 누구와 하고 싶은가 / 위험에 처한 사람은 누구나 좋아’라고 주거니 받거니 문답하는 가사를 갖는다.
