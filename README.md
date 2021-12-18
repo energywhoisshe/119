@@ -5,7 +5,7 @@
 《Every Mosquito Feels the Same》
 차연서 Cha Yeonså
 2022.1.19 (19:00~20:00) / 2022.1.20 ~ 2022.1.29 (13:00-20:00)
-[This is not a church](https://www.instagram.com/this_is_not_a_church/) 삼선동4가37 (구)명성교회
+This is not a church 삼선동4가37 (구)명성교회
 
 협력 박주현 강예빈 이솔엽 이상화 박민영 임다울 유명민 이윤수 안현진 최혜라 김해영 김호정
 
@@ -145,7 +145,7 @@
 
 - - -
 
-###### *Last updated on 17 DEC 2021 / Web manager : <energywhoisshe@gmail.com>*
+###### *Last updated on 17 DEC 2021 / Web manager : <energywhoisshe@gmail.com>* / Exhibition Info : [This is not a church](https://www.instagram.com/this_is_not_a_church/)
 
 [^1]: 박스 안에 인용된 텍스트는 라이브 공연 〈Juicy Mosquito〉 (2020.11.21) 때 작성된 스테이트먼트 전문이다.
 
