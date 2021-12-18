@@ -65,11 +65,14 @@ This is not a church 삼선동4가37 (구)명성교회
   
   (최효정 〈I’ll Promise To Find The Way Out〉 2016~2020)
   ```
-###### *제작 지원: 2020 첨단영상 산학협력 프로그램 Immersive Performance (한국예술종합학교 영상원, 한국예술종합학교 융합예술센터)*
+###### *연계 제작 지원: 2020 첨단영상 산학협력 프로그램 Immersive Performance (한국예술종합학교 영상원, 한국예술종합학교 융합예술센터) / Credit 한국예술종합학교 산학협력단 (기획 & 연출 차연서 / 조연출 원예나 / 예산 & 스크립트 자문 조영명 / 사운드 김은준 / 그래픽 자문 & 촬영 오세아 최희윤 임지수 / 기술 지원 STUDIO AR+Tech / 제작&지도 조충연 교수) 외 교내외 협력 23인*
 
 ## **_B. 집을 지키는 사람들_**
 *2021, Interactive Random Fiction on PC, Unity game engine*
 ```
+  사운드
+    이상화 (stxrfxsh)
+    
   인용 및 참고 문헌
     《EMDR 마음의 상처 치유하기 EMDR in the Treatment of Adults Abused as Children》(Laurel Parnell PhD, 김준기 외 2인 옮김, 수오서재, 2021) 
     《몸은 기억한다 The Body Keeps The Score》(Bessel van der Kolk M.D., 제효영 옮김, 을유문화사, 2016)
@@ -90,7 +93,7 @@ This is not a church 삼선동4가37 (구)명성교회
     《쇠를 먹는 불가사리》(정하섭, 길벗어린이, 1999)
     《티벳 사자의 서》(파드마삼바바, 류시화, 정신세계사, 1995) 
 ```
-###### *제작 지원: 2021 창의인재동반사업 Creative+ (아트센터나비, 한국콘텐츠진흥원)*
+###### *연계 제작 지원: 아트센터나비, 한국콘텐츠진흥원 / 2021 창의인재동반사업 Creative+ Game Crew (1:1 멘토링 조호연(룹앤테일) / 강연 오영진, 김영주(룹앤테일), 조호연(룹앤테일) / 기술 워크샵 정수봉 / 스터디 & 프로젝트 매니지먼트 박지혜 연구원)*
 
  
 - - -
