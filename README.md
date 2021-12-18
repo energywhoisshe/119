@@ -65,7 +65,7 @@ This is not a church 삼선동4가37 (구)명성교회
   
   (최효정 〈I’ll Promise To Find The Way Out〉 2016~2020)
   ```
-
+###### *제작 지원: 2020 첨단영상 산학협력 프로그램 Immersive Performance (한국예술종합학교 영상원, 한국예술종합학교 융합예술센터)*
 
 ## **_B. 집을 지키는 사람들_**
 *2021, Interactive Random Fiction on PC, Unity game engine*
@@ -90,7 +90,7 @@ This is not a church 삼선동4가37 (구)명성교회
     《쇠를 먹는 불가사리》(정하섭, 길벗어린이, 1999)
     《티벳 사자의 서》(파드마삼바바, 류시화, 정신세계사, 1995) 
 ```
-###### *제작 지원: 2021 창의인재동반사업 Creative+ (아트센터나비, 한국콘텐츠진흥원)
+###### *제작 지원: 2021 창의인재동반사업 Creative+ (아트센터나비, 한국콘텐츠진흥원)*
 
  
 - - -
