@@ -99,7 +99,9 @@ This is not a church 삼선동4가37 (구)명성교회
  
 - - -
 
-### Mosquitojuice
+<br>
+<br>
+<br>
 
 ‘Mosquitojuice’(2021, video installation and collaboration)에서 — 2020.11.21(19:00-19:30) 코로나19 방역 지침에 따라 무관객으로 공연된 퍼포먼스 〈Juicy Mosquito〉의 연출자는 리마스터링 비디오를 설치하고, 퍼포머-협력자-연루자들은 무대/카메라에 노출했던 신체 대신으로 느슨히 배역이 할당된 자신의 작업물을 각자의 움직임, 시선, 태도, 선언과 연계하여 가져온다.
 
