@@ -148,7 +148,7 @@ This is not a church 삼선동4가37 (구)명성교회
 
 - - -
 
-###### *Last updated on 17 DEC 2021 / Contact - 차연서 <energywhoisshe@gmail.com> / 디스이즈낫어처치 [instagram.com/this_is_not_a_church](https://www.instagram.com/this_is_not_a_church/)*
+###### *Last updated on 17 DEC 2021 / Contact - 차연서 <energywhoisshe@gmail.com> / 디스이즈낫어처치 [instagram.com/this_is_not_a_church](https://www.instagram.com/this_is_not_a_church/) (2022.1.20 ~ 2022.1.29)*
 
 [^1]: 박스 안에 인용된 텍스트는 라이브 공연 ***Juicy Mosquito*** (2020.11.21) 때 작성된 스테이트먼트 전문이다.
 
