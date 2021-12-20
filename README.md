@@ -129,6 +129,10 @@ This is not a church 삼선동4가37 (구)명성교회
 
 <br>
 
+  *[^3]죽일 수가 없어요.
+  그냥 잠깐, 정신을 잃게 만들어요. 뺨을 살짝
+  때리는 거죠. 있는 힘껏.*
+  
   *모기의 뺨과 내 손바닥이 잠시간 서로를 타격해요.   
   사실, 모기의 손바닥이 내 뺨을 갈겨요.   
   모기가 나에게 그의 여섯 개의 입술을 삽입하는 순간 우리는   
@@ -144,7 +148,7 @@ This is not a church 삼선동4가37 (구)명성교회
 
 <br>
 
-지겹게도 생리적으로 순환하는 지릿한 분수에는 흥분이 있고 감염이 있고 용기가 있고 고립이 없다. 단일하지 않은 목소리들이 모여 공간을 점유하고 얼마간의 산책자들이 그 비어 있는 무대를 가로지를 수 있을 때 — 침대에서 대칭형으로 얼어붙어 마주 얽힌 두 쌍의 다리들에 대한 이야기는 비로소 천장에 매달린 모기들처럼 가벼워진다. 마치 시큼한 황천을 흐른다. 그들은 끝없이 두 갈래로 갈라지는 길목에서 변조되고 재배치되며 분화하는 음성으로 이렇게 대화한다. “우리가 살아있고 창조의 바로 한가운데에 있다고 느낄 때, 사랑은 경이로운 것이 될 수 있어.” “가정하건데 … ***세상의 모든 모기들도 똑같이 느낄거야***.”[^3] “그것 참 모기들에게 좋은 일이구나!”[^4]
+지겹게도 생리적으로 순환하는 지릿한 분수에는 흥분이 있고 감염이 있고 용기가 있고 고립이 없다. 단일하지 않은 목소리들이 모여 공간을 점유하고 얼마간의 산책자들이 그 비어 있는 무대를 가로지를 수 있을 때 — 침대에서 대칭형으로 얼어붙어 마주 얽힌 두 쌍의 다리들에 대한 이야기는 비로소 천장에 매달린 모기들처럼 가벼워진다. 마치 시큼한 황천을 흐른다. 그들은 끝없이 두 갈래로 갈라지는 길목에서 변조되고 재배치되며 분화하는 음성으로 이렇게 대화한다. “우리가 살아있고 창조의 바로 한가운데에 있다고 느낄 때, 사랑은 경이로운 것이 될 수 있어.” “가정하건데 … ***세상의 모든 모기들도 똑같이 느낄거야***.”[^4] “그것 참 모기들에게 좋은 일이구나!”[^5]
 
 - - -
 
@@ -154,8 +158,10 @@ This is not a church 삼선동4가37 (구)명성교회
 
 [^2]: ‘사랑의 길’은 소방 훈련가이다. ‘그대 소방을 왜 선택했나 / 멋진 사랑을 하고 싶어서 / 그런 사랑을 누구와 하고 싶은가 / 위험에 처한 사람은 누구나 좋아’라고 주거니 받거니 문답하는 가사를 갖는다.
 
-[^3]: 베를린 ‘House of Egorn’의 전시 ‘Longan’(27 April - 1 June 2019)에서 Evelyn Taocheng Wang, Quotes 3, ink on rice paper, 90 × 96,5 cm, 2019; ink on A4 print paper, 21 x 29,7cm, 2019 에 인용된 문구 “I suppose every mosquito feels the same”을 목격한 후부터 이 프로젝트에 대한 씨앗이 생겨났다. (관련 웹페이지: <http://www.houseofegorn.com/index.php/2019/03/07/longan/> )
+[^3]: 〈Juicy Mosquito〉는 이우경 원작의 〈신혼기(원작 유승아)-전화기1-소화기-전화기2-무대엔딩〉 를 재구성한 스크립트 〈모기를 죽이려면 뺨을 때려라〉로 백그라운드 소음과 같은 연극을 일으킨다. 이 대사는 재구성된 극을 마무리한 배우들이 퍼포머들을 가로지르는 랜드서프 보드로 올라타기 전 - 원예나가 음성변조 마이크로 독백한다. 김호정이 주조한 붉은 얼굴의 신체 더미와 대응하도록 차연서가 창작했다.
 
-[^4]: D. H. Lawrence의 소설 ‘Lady Chatterley’s Lover’(1928)에서 본문은 이렇게 진행된다. ‘After all, Hilda,’ she(Connie) said, ‘love can be wonderful: when you feel you live, and are in the very middle of creation.’ It was almost like bragging on her part. ‘I suppose every mosquito feels the same,’ said Hilda. ‘Do you think it does? How nice for it!’
+[^4]: 베를린 ‘House of Egorn’의 전시 ‘Longan’(27 April - 1 June 2019)에서 Evelyn Taocheng Wang, Quotes 3, ink on rice paper, 90 × 96,5 cm, 2019; ink on A4 print paper, 21 x 29,7cm, 2019 에 인용된 문구 “I suppose every mosquito feels the same”을 목격한 후부터 이 프로젝트에 대한 씨앗이 생겨났다. (관련 웹페이지: <http://www.houseofegorn.com/index.php/2019/03/07/longan/> )
+
+[^5]: D. H. Lawrence의 소설 ‘Lady Chatterley’s Lover’(1928)에서 본문은 이렇게 진행된다. ‘After all, Hilda,’ she(Connie) said, ‘love can be wonderful: when you feel you live, and are in the very middle of creation.’ It was almost like bragging on her part. ‘I suppose every mosquito feels the same,’ said Hilda. ‘Do you think it does? How nice for it!’
 
 
