@@ -162,6 +162,6 @@ This is not a church 삼선동4가37 (구)명성교회
 
 [^6]: 베를린 ‘House of Egorn’의 전시 ‘Longan’(27 April - 1 June 2019)에서 Evelyn Taocheng Wang, Quotes 3, ink on rice paper, 90 × 96,5 cm, 2019; ink on A4 print paper, 21 x 29,7cm, 2019 에 인용된 문구 “I suppose every mosquito feels the same”을 목격한 후부터 이 프로젝트에 대한 씨앗이 생겨났다. (관련 웹페이지: <http://www.houseofegorn.com/index.php/2019/03/07/longan/> )
 
-[^7]: D. H. Lawrence의 소설 ‘Lady Chatterley’s Lover’(1928)에서 본문은 이렇게 진행된다. ‘After all, Hilda,’ she(Connie) said, ‘love can be wonderful: when you feel you live, and are in the very middle of creation.’ It was almost like bragging on her part. ‘I suppose every mosquito feels the same,’ said Hilda. ‘Do you think it does? How nice for it!’
+[^7]: D. H. Lawrence의 소설 ‘Lady Chatterley’s Lover’(1928)에서 본문은 자매 관계인 코니와 힐다의 대화로 이렇게 진행된다. ‘After all, Hilda,’ she(Connie) said, ‘love can be wonderful: when you feel you live, and are in the very middle of creation.’ It was almost like bragging on her part. ‘I suppose every mosquito feels the same,’ said Hilda. ‘Do you think it does? How nice for it!’
 
 
