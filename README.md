@@ -28,7 +28,8 @@ This is not a church 삼선동4가37 (구)명성교회
   
   이솔엽 〈해군아 클럽가자〉 digital sound(5’05”), 군번줄, 제76기 해군사관생도 수양록, 2021
   ```
-  ![image](https://user-images.githubusercontent.com/90887934/147027011-1a504c48-8e6f-42a1-808b-0b7143785078.png)
+![image](https://user-images.githubusercontent.com/90887934/147027011-1a504c48-8e6f-42a1-808b-0b7143785078.png)
+![image](https://user-images.githubusercontent.com/90887934/147028676-80ac712a-64ff-4339-99f4-84afaaebd249.png)
 
   
   ```
@@ -54,7 +55,7 @@ This is not a church 삼선동4가37 (구)명성교회
   
   최혜라
   ```
-  ![image](https://user-images.githubusercontent.com/90887934/147025766-b7440ce0-e28e-40ae-b425-3fec95c5682a.png)
+![image](https://user-images.githubusercontent.com/90887934/147025766-b7440ce0-e28e-40ae-b425-3fec95c5682a.png)
 
   
   ```
@@ -65,8 +66,9 @@ This is not a church 삼선동4가37 (구)명성교회
   
   김해영
   ```
-  ![image](https://user-images.githubusercontent.com/90887934/147026362-bf478898-5a47-4eca-841f-a2275afb278e.png)
-  
+![image](https://user-images.githubusercontent.com/90887934/147026362-bf478898-5a47-4eca-841f-a2275afb278e.png)
+![image](https://user-images.githubusercontent.com/90887934/147029494-2b903b06-7ea4-4ca3-a1aa-ba9fb1bffc43.png)
+
   ```
   f
   김호정 〈light survival〉
