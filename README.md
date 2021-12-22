@@ -28,6 +28,8 @@ This is not a church 삼선동4가37 (구)명성교회
   
   이솔엽 〈해군아 클럽가자〉 digital sound(5’05”), 군번줄, 제76기 해군사관생도 수양록, 2021
   ```
+  ![image](https://user-images.githubusercontent.com/90887934/147027011-1a504c48-8e6f-42a1-808b-0b7143785078.png)
+
   
   ```
   b
@@ -35,8 +37,7 @@ This is not a church 삼선동4가37 (구)명성교회
   
   임다울 〈〉
   ```
-  ![image](https://user-images.githubusercontent.com/90887934/147025476-70dab6bd-18bc-4d82-bcb5-6db9b19f7855.png)
-
+![image](https://user-images.githubusercontent.com/90887934/147028083-7d82398b-2dde-43e4-9da0-169c2adf7821.png)
   
   ```
   c
@@ -44,7 +45,9 @@ This is not a church 삼선동4가37 (구)명성교회
   
   이윤수
   ```
-  
+![image](https://user-images.githubusercontent.com/90887934/147026075-bd0d4f9c-639d-4187-ac5f-a38e77b76228.png)
+![image](https://user-images.githubusercontent.com/90887934/147027613-78e5bbd5-407e-4583-b123-0f37e190417a.png)
+
   ```
   d
   안현진
@@ -62,6 +65,7 @@ This is not a church 삼선동4가37 (구)명성교회
   
   김해영
   ```
+  ![image](https://user-images.githubusercontent.com/90887934/147026362-bf478898-5a47-4eca-841f-a2275afb278e.png)
   
   ```
   f
@@ -69,6 +73,9 @@ This is not a church 삼선동4가37 (구)명성교회
   
   (최효정 〈I’ll Promise To Find The Way Out〉 2016~2020)
   ```
+  ![image](https://user-images.githubusercontent.com/90887934/147028402-ae7d82fa-4cb3-4cbf-abb7-ce970c5d6de4.png)
+
+  
   
 ###### *연계 제작 지원: 한국예술종합학교 영상원, 한국예술종합학교 융합예술센터 / 2020 첨단영상 산학협력 프로그램 Immersive Performance (기획 & 연출 차연서 / 조연출 원예나 / 예산 & 스크립트 자문 조영명 / 사운드 김은준 / 그래픽 자문 & 촬영 오세아 최희윤 임지수 / 기술 지원 STUDIO AR+Tech / 제작&지도 조충연 교수) 외 [교내외 협력 23인](https://freight.cargo.site/t/original/i/efc7653832fe834b99984410a1697a8bc765bc82a92b06a351474233bb678ed7/-2021-02-04--8.20.56.png)*
 
