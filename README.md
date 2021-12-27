@@ -29,7 +29,9 @@ This is not a church 삼선동4가37 (구)명성교회
   이솔엽 〈해군아 클럽가자〉 digital sound(5’05”), 군번줄, 제76기 해군사관생도 수양록, 2021
   ```
 ![image](https://user-images.githubusercontent.com/90887934/147027011-1a504c48-8e6f-42a1-808b-0b7143785078.png)
-![image](https://user-images.githubusercontent.com/90887934/147028676-80ac712a-64ff-4339-99f4-84afaaebd249.png)
+<!-- ![image](https://user-images.githubusercontent.com/90887934/147028676-80ac712a-64ff-4339-99f4-84afaaebd249.png) -->
+
+<br>
 
   
   ```
@@ -39,6 +41,8 @@ This is not a church 삼선동4가37 (구)명성교회
   임다울 〈〉
   ```
 ![image](https://user-images.githubusercontent.com/90887934/147028083-7d82398b-2dde-43e4-9da0-169c2adf7821.png)
+
+<br>
   
   ```
   c
@@ -46,8 +50,10 @@ This is not a church 삼선동4가37 (구)명성교회
   
   이윤수
   ```
-![image](https://user-images.githubusercontent.com/90887934/147026075-bd0d4f9c-639d-4187-ac5f-a38e77b76228.png)
+<!-- ![image](https://user-images.githubusercontent.com/90887934/147026075-bd0d4f9c-639d-4187-ac5f-a38e77b76228.png)-->
 ![image](https://user-images.githubusercontent.com/90887934/147027613-78e5bbd5-407e-4583-b123-0f37e190417a.png)
+
+<br>
 
   ```
   d
@@ -57,17 +63,20 @@ This is not a church 삼선동4가37 (구)명성교회
   ```
 ![image](https://user-images.githubusercontent.com/90887934/147025766-b7440ce0-e28e-40ae-b425-3fec95c5682a.png)
 
+<br>
   
   ```
   e
+  김해영
+  
   박주현
   
   강예빈
-  
-  김해영
   ```
 ![image](https://user-images.githubusercontent.com/90887934/147026362-bf478898-5a47-4eca-841f-a2275afb278e.png)
-![image](https://user-images.githubusercontent.com/90887934/147029494-2b903b06-7ea4-4ca3-a1aa-ba9fb1bffc43.png)
+<!-- ![image](https://user-images.githubusercontent.com/90887934/147029494-2b903b06-7ea4-4ca3-a1aa-ba9fb1bffc43.png) -->
+
+<br>
 
   ```
   f
@@ -77,6 +86,7 @@ This is not a church 삼선동4가37 (구)명성교회
   ```
   ![image](https://user-images.githubusercontent.com/90887934/147028402-ae7d82fa-4cb3-4cbf-abb7-ce970c5d6de4.png)
 
+<br>
   
   
 ###### *연계 제작 지원: 한국예술종합학교 영상원, 한국예술종합학교 융합예술센터 / 2020 첨단영상 산학협력 프로그램 Immersive Performance (기획 & 연출 차연서 / 조연출 원예나 / 예산 & 스크립트 자문 조영명 / 사운드 김은준 / 그래픽 자문 & 촬영 오세아 최희윤 임지수 / 기술 지원 STUDIO AR+Tech / 제작&지도 조충연 교수) 외 [교내외 협력 23인](https://freight.cargo.site/t/original/i/efc7653832fe834b99984410a1697a8bc765bc82a92b06a351474233bb678ed7/-2021-02-04--8.20.56.png)*
