@@ -38,10 +38,13 @@ Installation
   ₁
   
   박주현
+    〈〉, 2022
 
   강예빈
+    〈〉, 2022
   
   김해영
+    〈〉, 2022
   ```
   
 ![image](https://user-images.githubusercontent.com/90887934/147026362-bf478898-5a47-4eca-841f-a2275afb278e.png)
@@ -72,10 +75,10 @@ Installation
   ₃
   
   박민영 
-    〈만날 뻔해서 반갑습니다〉
+    〈만날 뻔해서 반갑습니다〉, 2021
   
   임다울 
-    〈〉
+    〈〉, 2022
     }
   ```
 ![image](https://user-images.githubusercontent.com/90887934/147028083-7d82398b-2dde-43e4-9da0-169c2adf7821.png)
@@ -86,8 +89,10 @@ Installation
   ₄
   
   유명민
+    〈〉, 2022
   
   이윤수
+    〈〉, 2022
   
   ```
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147026075-bd0d4f9c-639d-4187-ac5f-a38e77b76228.png)-->
@@ -99,8 +104,10 @@ Installation
   ₅
   
   안현진
+    〈〉, 2022
   
   최혜라
+    〈〉, 2022
   
   ```
 ![image](https://user-images.githubusercontent.com/90887934/147025766-b7440ce0-e28e-40ae-b425-3fec95c5682a.png)
@@ -111,7 +118,7 @@ Installation
   ₆
   
   김호정 
-    〈light survival〉
+    〈light survival〉, 2022
       
     프리소스
     최효정 〈I’ll Promise To Find The Way Out〉 2016~2020
