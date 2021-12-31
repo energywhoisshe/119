@@ -126,7 +126,7 @@ Installation
   
   차연서
     { “파괴적인 엄마의 마음”, “생산적인 딸의 양자파동장”, “잠재적인 딸의 여자친구의 물리적인 구조육체” };
-    2021, Interactive Random Fiction on PC, Unity game engine
+    Interactive Random Fiction on PC, Unity game engine, 2022
   
     사운드
       이상화 (stxrfxsh)
