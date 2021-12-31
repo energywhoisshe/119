@@ -36,7 +36,7 @@
   void Mosquitojuice()
   {
     //Performance Installation Show;    
-    Debug.Log = "salt" + "light" + "church";
+    Debug.Log = "salt" + "light" + "not a church";
     Debug.Log = "1 Channel Video, Sound, 29 min 19 sec, HD"
     
     one();
