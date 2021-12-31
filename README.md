@@ -9,7 +9,7 @@
 
 Installation
 ▵ Mosquitojuice
-  2022, 1 Channel Video, Sound, 29 min 19 sec, HD, Screening and Collaborations
+  2022, Screening and Collaborations
   Cast 박주현 강예빈 이솔엽 이상화 박민영 임다울 유명민 이윤수 안현진 최혜라 김해영 김호정
 
 ▵ { “파괴적인 엄마의 마음”, “생산적인 딸의 양자파동장”, “잠재적인 딸의 여자친구의 물리적인 구조육체” };
