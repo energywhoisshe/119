@@ -30,13 +30,21 @@
 
 **Mosquitojuice**
 
-*2022, Performance Installation Show*
-*1 Channel Video, Sound, 29 min 19 sec, HD, Screening and Collaborations*
+*2022, Performance Installation Show, 1 Channel Video, Sound, 29 min 19 sec, HD, Screening and Collaborations*
 
   ```c#
   void Mosquitojuice()
   {
-    Performance Installation Show
+    //Performance Installation Show;    
+    Debug.Log = "salt" + "light" + "church";
+    Debug.Log = "1 Channel Video, Sound, 29 min 19 sec, HD"
+    
+    one();
+    two();
+    three();
+    four();
+    five();
+    six();
   }
   ```
   
