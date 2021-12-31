@@ -8,7 +8,7 @@
   삼선동4가37 (구)명성교회 12.00-18.00 휴관일 없음
   
 ⎱ Mosquitojuice ⎱
-  Performance Installation
+  Performance Installation Show
   Host
     ₀ 차연서
   Guest 
