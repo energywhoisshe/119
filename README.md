@@ -9,7 +9,7 @@
 
 Installation
 ⎱ Mosquitojuice ⎱
-  2022, Performance Screening and Collaborations
+  Performance Screening and Collaborations
   Cast 
     ₁ 박주현 강예빈 김해영 
     ₂ 이솔엽 이상화 
