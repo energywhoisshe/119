@@ -54,11 +54,13 @@ Installation
   
   이상화 
     〈Injury〉 
-    digital sound(2’36”), 인식표, EMT 가위, 2021`
+    digital sound(2’36”), 2021
+    인식표, EMT 가위, 2017
 
   이솔엽 
     〈해군아 클럽가자〉 
-    digital sound(5’05”), 군번줄, 제76기 해군사관생도 수양록, 2021
+    digital sound(5’05”), 2021
+    군번줄, 제76기 해군사관생도 수양록, 2018
   ```
 ![image](https://user-images.githubusercontent.com/90887934/147027011-1a504c48-8e6f-42a1-808b-0b7143785078.png)
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147028676-80ac712a-64ff-4339-99f4-84afaaebd249.png) -->
