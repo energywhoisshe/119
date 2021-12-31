@@ -6,10 +6,9 @@
   차연서   2022.1.19 - 2022.1.29
   This is not a church
   삼선동4가37 (구)명성교회 12.00-18.00 휴관일 없음
-
-Installation
+  
+Performance Installation
 ⎱ Mosquitojuice ⎱
-  Performance Screening and Collaborations
   Host
     ₀ 차연서
   Guest 
