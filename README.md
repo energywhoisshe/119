@@ -143,10 +143,9 @@ Installation
     
     연계 제작 지원
       아트센터나비, 한국콘텐츠진흥원 2021 창의인재동반사업 Creative+ GAME CREW
-      (1:1 멘토링 조호연 / 강연 오영진, 김영주, 조호연 / 기술 워크샵 정수봉 / 담당 연구원 박지혜)
     }
   ```
-  ![image](https://user-images.githubusercontent.com/90887934/147028402-ae7d82fa-4cb3-4cbf-abb7-ce970c5d6de4.png)
+  <!-- ![image](https://user-images.githubusercontent.com/90887934/147028402-ae7d82fa-4cb3-4cbf-abb7-ce970c5d6de4.png) -->
 
 <br>
   
