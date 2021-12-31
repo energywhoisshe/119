@@ -26,7 +26,8 @@ Installation
 
 <br>
 
-![tinc 작품도면](https://user-images.githubusercontent.com/90887934/146549692-0aeb3071-3b72-4928-962b-34981e94947e.png)
+![tinc 작품도면_numbering](https://user-images.githubusercontent.com/90887934/147806588-b6bd83b6-06cb-4854-a993-64158c7c1199.png)
+
 
 **Mosquitojuice**
 
