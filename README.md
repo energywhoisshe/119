@@ -39,7 +39,8 @@
   {
     //Performance Installation Show;    
     Debug.Log = "salt" + "light" + "not a church";
-    Debug.Log = "1 Channel Video, Sound, 29 min 19 sec, HD"
+    Debug.Log = "1 Channel Video, Sound, 29 min 19 sec, HD";
+    Debug.Log = "https://energywhoisshe.github.io/119/";
     
     one();
     two();
