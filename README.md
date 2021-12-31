@@ -32,12 +32,31 @@ Installation
 
 *2022, 1 Channel Video, Sound, 29 min 19 sec, HD, Screening and Collaborations*
 
-  ```c#
+  ```
+  void one()
+  {
+    김해영
+  
+    박주현
+  
+    강예빈
+  }
+  ```
+![image](https://user-images.githubusercontent.com/90887934/147026362-bf478898-5a47-4eca-841f-a2275afb278e.png)
+<!-- ![image](https://user-images.githubusercontent.com/90887934/147029494-2b903b06-7ea4-4ca3-a1aa-ba9fb1bffc43.png) -->
+
+<br>
+
+  ```
   void two()
     {
-      이상화 〈Injury〉 digital sound(2’36”), 인식표, EMT 가위, 2021`
+      이상화 
+      〈Injury〉 
+      digital sound(2’36”), 인식표, EMT 가위, 2021`
   
-      이솔엽 〈해군아 클럽가자〉 digital sound(5’05”), 군번줄, 제76기 해군사관생도 수양록, 2021
+      이솔엽 
+      〈해군아 클럽가자〉 
+      digital sound(5’05”), 군번줄, 제76기 해군사관생도 수양록, 2021
     }
   ```
 ![image](https://user-images.githubusercontent.com/90887934/147027011-1a504c48-8e6f-42a1-808b-0b7143785078.png)
@@ -46,84 +65,84 @@ Installation
 <br>
 
   
-  ```c#
-  3
-  박민영 〈만날 뻔해서 반갑습니다〉
+  ```
+  void three()
+    {
+      박민영 
+      〈만날 뻔해서 반갑습니다〉
   
-  임다울 〈〉
+      임다울 
+      〈〉
+    }
   ```
 ![image](https://user-images.githubusercontent.com/90887934/147028083-7d82398b-2dde-43e4-9da0-169c2adf7821.png)
 
 <br>
   
-  ```c#
-  4
-  유명민
+  ```
+  void four()
+  {
+    유명민
   
-  이윤수
+    이윤수
+  }
   ```
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147026075-bd0d4f9c-639d-4187-ac5f-a38e77b76228.png)-->
 ![image](https://user-images.githubusercontent.com/90887934/147027613-78e5bbd5-407e-4583-b123-0f37e190417a.png)
 
 <br>
 
-  ```c#
-  5
-  안현진
+  ```
+  void five()
+  {
+    안현진
   
-  최혜라
+    최혜라
+  }
   ```
 ![image](https://user-images.githubusercontent.com/90887934/147025766-b7440ce0-e28e-40ae-b425-3fec95c5682a.png)
 
 <br>
-  
-  ```c#
-  1
-  김해영
-  
-  박주현
-  
-  강예빈
+
   ```
-![image](https://user-images.githubusercontent.com/90887934/147026362-bf478898-5a47-4eca-841f-a2275afb278e.png)
-<!-- ![image](https://user-images.githubusercontent.com/90887934/147029494-2b903b06-7ea4-4ca3-a1aa-ba9fb1bffc43.png) -->
-
-<br>
-
-  ```c#
-  6
-  김호정 〈light survival〉
+  void six()
+    {
+      김호정 
+      〈light survival〉
+      
+      프리소스
+        최효정 〈I’ll Promise To Find The Way Out〉 2016~2020
   
-  (최효정 〈I’ll Promise To Find The Way Out〉 2016~2020)
   
-  차연서
-  { “파괴적인 엄마의 마음”, “생산적인 딸의 양자파동장”, “잠재적인 딸의 여자친구의 물리적인 구조육체” };
-  2021, Interactive Random Fiction on PC, Unity game engine
+      차연서
+      { “파괴적인 엄마의 마음”, “생산적인 딸의 양자파동장”, “잠재적인 딸의 여자친구의 물리적인 구조육체” };
+      2021, Interactive Random Fiction on PC, Unity game engine
   
-  사운드
-    이상화 (stxrfxsh)
+      사운드
+        이상화 (stxrfxsh)
     
-  인용 및 참고 문헌
-    《EMDR 마음의 상처 치유하기 EMDR in the Treatment of Adults Abused as Children》(Laurel Parnell PhD, 김준기 외 2인 옮김, 수오서재, 2021) 
-    《몸은 기억한다 The Body Keeps The Score》(Bessel van der Kolk M.D., 제효영 옮김, 을유문화사, 2016)
-    《양자의학 Quantum Medicine 》(강길전, 돋을새김, 2013) 
+    인용 및 참고 문헌
+     《EMDR 마음의 상처 치유하기 EMDR in the Treatment of Adults Abused as Children》(Laurel Parnell PhD, 김준기 외 2인 옮김, 수오서재, 2021) 
+     《몸은 기억한다 The Body Keeps The Score》(Bessel van der Kolk M.D., 제효영 옮김, 을유문화사, 2016)
+     《양자의학 Quantum Medicine 》(강길전, 돋을새김, 2013) 
 
-    《죽고 싶지만 살고 싶어서》(친족성폭력생존자 12인, 글항아리, 2021)
-    《트러블과 함께하기 Staying with Trouble: Making Kin in the Chthulucene》(Donna Haraway, 최유미 옮김, 마농지, 2021) 
-    《몽마르트르 유서 蒙馬特遺書》(구묘진, 방철환 옮김, 움직씨, 2021)
-    《아무도 알고 싶어하지 않는 이야기》(친족성폭력생존자 12인, 텀블벅 독립출판, 2020)
-    《S&M 페미니스트 The S&M Feminist》(Clarisse Thorn, 송경아 옮김, 여이연, 2020)
-    《원본 없는 판타지》(조혜영 외 13인, 후마니타스, 2020)
-    《진실의 색 Die Farbe der Wahrheit》(Hito Steyerl, 안규철 옮김, 워크룸프레스, 2019)
-    《딸에 대하여》(김혜진, 민음사, 2017)
-    《다시 태어나다 - 수전 손택의 일기와 노트 1947~1963 Reborn―Journal & Notebooks 1947~1963》(Susan Sontag, 김선형 옮김, 이후, 2013) 
-    《실비아 플라스 시 전집 Collected Poems》(Sylvia Plath, 박주영 옮김, 마음 산책, 2013)
-    《올빼미의 없음》(배수아, 창비, 2010)
-    《불가사리를 기억해》(유영소, 사계절, 2009)
-    《쇠를 먹는 불가사리》(정하섭, 길벗어린이, 1999)
-    《티벳 사자의 서》(파드마삼바바, 류시화, 정신세계사, 1995) 
+     《죽고 싶지만 살고 싶어서》(친족성폭력생존자 12인, 글항아리, 2021)
+     《트러블과 함께하기 Staying with Trouble: Making Kin in the Chthulucene》(Donna Haraway, 최유미 옮김, 마농지, 2021) 
+     《몽마르트르 유서 蒙馬特遺書》(구묘진, 방철환 옮김, 움직씨, 2021)
+     《아무도 알고 싶어하지 않는 이야기》(친족성폭력생존자 12인, 텀블벅 독립출판, 2020)
+     《S&M 페미니스트 The S&M Feminist》(Clarisse Thorn, 송경아 옮김, 여이연, 2020)
+     《원본 없는 판타지》(조혜영 외 13인, 후마니타스, 2020)
+     《진실의 색 Die Farbe der Wahrheit》(Hito Steyerl, 안규철 옮김, 워크룸프레스, 2019)
+     《딸에 대하여》(김혜진, 민음사, 2017)
+     《다시 태어나다 - 수전 손택의 일기와 노트 1947~1963 Reborn―Journal & Notebooks 1947~1963》(Susan Sontag, 김선형 옮김, 이후, 2013) 
+     《실비아 플라스 시 전집 Collected Poems》(Sylvia Plath, 박주영 옮김, 마음 산책, 2013)
+     《올빼미의 없음》(배수아, 창비, 2010)
+     《불가사리를 기억해》(유영소, 사계절, 2009)
+     《쇠를 먹는 불가사리》(정하섭, 길벗어린이, 1999)
+     《티벳 사자의 서》(파드마삼바바, 류시화, 정신세계사, 1995) 
     
     연계 제작 지원: 아트센터나비, 한국콘텐츠진흥원 2021 창의인재동반사업 Creative+ GAME CREW (1:1 멘토링 조호연 / 강연 오영진, 김영주, 조호연 / 기술 워크샵 정수봉 / 담당 연구원 박지혜)
+    }
   ```
   ![image](https://user-images.githubusercontent.com/90887934/147028402-ae7d82fa-4cb3-4cbf-abb7-ce970c5d6de4.png)
 
