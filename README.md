@@ -2,18 +2,21 @@
 
 
 ```
-⎰Every Mosquito Feels the Same⎰
+⎱ Every Mosquito Feels the Same ⎱
   차연서   2022.1.19 - 2022.1.29
   This is not a church
   삼선동4가37 (구)명성교회 13.00-18.00 휴관일 없음
 
 Installation
-▵ Mosquitojuice
+⎱ Mosquitojuice ⎱
   2022, Screening and Collaborations
-  Cast 박주현 강예빈 이솔엽 이상화 박민영 임다울 유명민 이윤수 안현진 최혜라 김해영 김호정
-
-▵ { “파괴적인 엄마의 마음”, “생산적인 딸의 양자파동장”, “잠재적인 딸의 여자친구의 물리적인 구조육체” };
-  2021, Interactive Random Fiction on PC
+  Cast 
+    1 박주현 강예빈 김해영 
+    2 이솔엽 이상화 
+    3 박민영 임다울 
+    4 유명민 이윤수 
+    5 안현진 최혜라 
+    6 김호정 차연서
 
 2021 K-Arts ON-Road 창작공모사업 선정작  
 주최/주관 : 한국예술종합학교   제작지원 : 한국예술종합학교 공연전시센터
