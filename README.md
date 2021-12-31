@@ -9,15 +9,13 @@
   
 ⎱ Mosquitojuice ⎱
   Performance Installation Show
-  Host
-    ₀ 차연서
   Guest 
     ₁ 박주현 강예빈 김해영 
     ₂ 이솔엽 이상화 
     ₃ 박민영 임다울 
     ₄ 유명민 이윤수 
     ₅ 안현진 최혜라 
-    ₆ 김호정 차연서
+    ₆ 김호정
 
 2021 K-Arts ON-Road 창작공모사업 선정작  
 주최/주관 : 한국예술종합학교   제작지원 : 한국예술종합학교 공연전시센터
@@ -32,9 +30,14 @@
 
 **Mosquitojuice**
 
-*2022, 1 Channel Video, Sound, 29 min 19 sec, HD, Screening and Collaborations*
-  ```
-  
+*2022, Performance Installation Show*
+*1 Channel Video, Sound, 29 min 19 sec, HD, Screening and Collaborations*
+
+  ```c#
+  void Mosquitojuice()
+  {
+    Performance Installation Show
+  }
   ```
   
   ```
