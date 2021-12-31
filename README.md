@@ -10,7 +10,9 @@
 Installation
 ⎱ Mosquitojuice ⎱
   Performance Screening and Collaborations
-  Cast 
+  Host
+    ₀ 차연서
+  Guest 
     ₁ 박주현 강예빈 김해영 
     ₂ 이솔엽 이상화 
     ₃ 박민영 임다울 
