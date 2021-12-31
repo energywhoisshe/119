@@ -127,8 +127,18 @@
   안현진
     〈〉, 2022
   
+  
+  
   최혜라
-    〈〉, 2022
+    〈Danse 1〉
+    steel, paper, dimensions variable, 2022
+    
+    Notes
+      〈Winterbranch〉 (Merce Cunningham, 1964)
+      《Six Years: The Dematerialization of the Art Object from 1966 to 1972》 (Lucy Lippard, 1973)
+      《The Naked Eye (Das Nackte Auge)》 (Yoko Tawada, Konkursbuch Verlag, 2004)
+      〈끝도 없이 달리는〉 (Yoko Tawada, 남상욱 옮김, 자음과 모음, 2018)
+      《불가능한 춤》 (마텐 스팽베르크, 메테 에드바르센, 메테 잉바르트센, 보야나 스베이지, 보야나 쿤스트, 서현석, 안드레 레페키 지음 / 김성희 엮음, 워크룸 프레스, 2020)
   
   ```
 ![image](https://user-images.githubusercontent.com/90887934/147025766-b7440ce0-e28e-40ae-b425-3fec95c5682a.png)
