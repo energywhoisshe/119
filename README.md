@@ -28,14 +28,17 @@ Installation
 
 ![tinc 작품도면](https://user-images.githubusercontent.com/90887934/146549692-0aeb3071-3b72-4928-962b-34981e94947e.png)
 
-## **_A. Mosquitojuice_**
+**Mosquitojuice**
+
 *2022, 1 Channel Video, Sound, 29 min 19 sec, HD, Screening and Collaborations*
 
-  ```
-  a
-  이상화 〈Injury〉 digital sound(2’36”), 인식표, EMT 가위, 2021`
+  ```c#
+  void two()
+    {
+      이상화 〈Injury〉 digital sound(2’36”), 인식표, EMT 가위, 2021`
   
-  이솔엽 〈해군아 클럽가자〉 digital sound(5’05”), 군번줄, 제76기 해군사관생도 수양록, 2021
+      이솔엽 〈해군아 클럽가자〉 digital sound(5’05”), 군번줄, 제76기 해군사관생도 수양록, 2021
+    }
   ```
 ![image](https://user-images.githubusercontent.com/90887934/147027011-1a504c48-8e6f-42a1-808b-0b7143785078.png)
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147028676-80ac712a-64ff-4339-99f4-84afaaebd249.png) -->
@@ -43,8 +46,8 @@ Installation
 <br>
 
   
-  ```
-  b
+  ```c#
+  3
   박민영 〈만날 뻔해서 반갑습니다〉
   
   임다울 〈〉
@@ -53,8 +56,8 @@ Installation
 
 <br>
   
-  ```
-  c
+  ```c#
+  4
   유명민
   
   이윤수
@@ -64,8 +67,8 @@ Installation
 
 <br>
 
-  ```
-  d
+  ```c#
+  5
   안현진
   
   최혜라
@@ -74,8 +77,8 @@ Installation
 
 <br>
   
-  ```
-  e
+  ```c#
+  1
   김해영
   
   박주현
@@ -87,25 +90,16 @@ Installation
 
 <br>
 
-  ```
-  f
+  ```c#
+  6
   김호정 〈light survival〉
   
   (최효정 〈I’ll Promise To Find The Way Out〉 2016~2020)
-  ```
-  ![image](https://user-images.githubusercontent.com/90887934/147028402-ae7d82fa-4cb3-4cbf-abb7-ce970c5d6de4.png)
-
-<br>
   
-###### *연계 제작 지원: 한국예술종합학교 영상원, 한국예술종합학교 융합예술센터 / 2020 첨단영상 산학협력 프로그램 Immersive Performance (기획 & 연출 차연서 / 조연출 원예나 / 예산 & 스크립트 자문 조영명 / 사운드 김은준 / 그래픽 자문 & 촬영 오세아 최희윤 임지수 / 기술 지원 STUDIO AR+Tech / 제작&지도 조충연 교수) 외 [교내외 협력 23인](https://freight.cargo.site/t/original/i/efc7653832fe834b99984410a1697a8bc765bc82a92b06a351474233bb678ed7/-2021-02-04--8.20.56.png)*
-
-<br>
-<br>
-<br>
-
-## **_B. { “파괴적인 엄마의 마음”, “생산적인 딸의 양자파동장”, “잠재적인 딸의 여자친구의 물리적인 구조육체” };_**
-*2021, Interactive Random Fiction on PC, Unity game engine*
-```
+  차연서
+  { “파괴적인 엄마의 마음”, “생산적인 딸의 양자파동장”, “잠재적인 딸의 여자친구의 물리적인 구조육체” };
+  2021, Interactive Random Fiction on PC, Unity game engine
+  
   사운드
     이상화 (stxrfxsh)
     
@@ -128,9 +122,18 @@ Installation
     《불가사리를 기억해》(유영소, 사계절, 2009)
     《쇠를 먹는 불가사리》(정하섭, 길벗어린이, 1999)
     《티벳 사자의 서》(파드마삼바바, 류시화, 정신세계사, 1995) 
-```
-###### *연계 제작 지원: 아트센터나비, 한국콘텐츠진흥원 / 2021 창의인재동반사업 Creative+ GAME CREW (1:1 멘토링 조호연 / 강연 오영진, 김영주, 조호연 / 기술 워크샵 정수봉 / 담당 연구원 박지혜)*
+    
+    연계 제작 지원: 아트센터나비, 한국콘텐츠진흥원 2021 창의인재동반사업 Creative+ GAME CREW (1:1 멘토링 조호연 / 강연 오영진, 김영주, 조호연 / 기술 워크샵 정수봉 / 담당 연구원 박지혜)
+  ```
+  ![image](https://user-images.githubusercontent.com/90887934/147028402-ae7d82fa-4cb3-4cbf-abb7-ce970c5d6de4.png)
 
+<br>
+  
+###### *연계 제작 지원: 한국예술종합학교 영상원, 한국예술종합학교 융합예술센터 / 2020 첨단영상 산학협력 프로그램 Immersive Performance (기획 & 연출 차연서 / 조연출 원예나 / 예산 & 스크립트 자문 조영명 / 사운드 김은준 / 그래픽 자문 & 촬영 오세아 최희윤 임지수 / 기술 지원 STUDIO AR+Tech / 제작&지도 조충연 교수) 외 [교내외 협력 23인](https://freight.cargo.site/t/original/i/efc7653832fe834b99984410a1697a8bc765bc82a92b06a351474233bb678ed7/-2021-02-04--8.20.56.png)*
+
+<br>
+<br>
+<br>
  
 - - -
 
