@@ -2,14 +2,20 @@
 
 
 ```
-《Every Mosquito Feels the Same》
-차연서 Cha Yeonså
-2022.1.19 (19:00~20:00) / 2022.1.20 ~ 2022.1.29 (13:00-20:00)
-This is not a church 삼선동4가37 (구)명성교회
+⎰Every Mosquito Feels the Same⎰
+  차연서   2022.1.19 - 2022.1.29
+  This is not a church
+  삼선동4가37 (구)명성교회 13.00-18.00 휴관일 없음
 
-Cast 박주현 강예빈 이솔엽 이상화 박민영 임다울 유명민 이윤수 안현진 최혜라 김해영 김호정
+Installation
+▵ Mosquitojuice
+  2022, 1 Channel Video, Sound, 29 min 19 sec, HD, Screening and Collaborations
+  Cast 박주현 강예빈 이솔엽 이상화 박민영 임다울 유명민 이윤수 안현진 최혜라 김해영 김호정
 
-2021 K-Arts ON-Road 창작공모사업 선정작
+▵ { “파괴적인 엄마의 마음”, “생산적인 딸의 양자파동장”, “잠재적인 딸의 여자친구의 물리적인 구조육체” };
+  2021, Interactive Random Fiction on PC, Unity game engine
+
+2021 K-Arts ON-Road 창작공모사업 선정작  
 주최/주관 : 한국예술종합학교   제작지원 : 한국예술종합학교 공연전시센터
 ```
 
