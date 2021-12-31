@@ -9,7 +9,7 @@
   
 ⎱ Mosquitojuice ⎱
   Performance Installation Show
-  Guest 
+  Guest
     ₁ 박주현 강예빈 김해영 
     ₂ 이솔엽 이상화 
     ₃ 박민영 임다울 
@@ -150,14 +150,15 @@
   ₆
   
   김호정 
-    〈light survival〉, 2022
+  ⎱ light survival ⎱
+    2022
       
     프리소스
     최효정 〈I’ll Promise To Find The Way Out〉 2016~2020
   
   
   차연서
-    { “파괴적인 엄마의 마음”, “생산적인 딸의 양자파동장”, “잠재적인 딸의 여자친구의 물리적인 구조육체” };
+  ⎱ { “파괴적인 엄마의 마음”, “생산적인 딸의 양자파동장”, “잠재적인 딸의 여자친구의 물리적인 구조육체” }; ⎱
     Interactive Random Fiction on PC, Unity game engine, 2022
   
     사운드
