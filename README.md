@@ -130,7 +130,7 @@
   
   
   최혜라
-    〈Danse 1〉
+    Danse 1
     steel, paper, dimensions variable, 2022
     
     Notes
