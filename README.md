@@ -126,10 +126,25 @@
   ₅
   
   안현진
-    〈〉, 2022
+    ⎱ Consolidation 1 ⎱
+    백자토, 가압성형, 산화번조, 부분시유 33x33x1.5(h)cm, 2021
+    ⎱ Consolidation 2 ⎱
+    백자토, 가압성형, 산화번조, 부분시유 6x6x1(h)cm, 2021
+    ⎱ Chair, hair, air ⎱
+    백자토, 가압성형, 물레성형, 저화도 유약 붓시유, 산화번조 35x55x35(h)cm
   
-  
-  
+    References
+      <Veronica's Horror>, Em Rooney, 2017.
+      <The Walking Dead>, S10:E18 «Find me», 2019.
+      《생의 한가운데》, 루이제 린저 저, 전혜린 옮김, 문예출판사, 1998. - 원제: 《Mitte Des Lebens》, Luise Rinser, 1950.
+      《주디스 버틀러의 철학과 우울》, 사라 살리 저, 김정경 옮김, 앨피, 2007.
+      《사물의 체계》, 장 보드리야르 저, 배영달 옮김, 지식을만드는지식, 2011.
+      <The White, The Black, The Blue>, Edith Dekyndt, Kunstpreis Finkenwerder, 2019.
+      <시>, 이창동, 2010.
+      <secret touch>, Jenny Hval, 2016.
+ 
+
+
   최혜라
   ⎱ Danse 1 ⎱
     steel, paper, dimensions variable, 2022
