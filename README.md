@@ -168,8 +168,10 @@
   ⎱ light survival ⎱
     Digital Print on a hanging screen 방수천에 디지털 프린트, 150 x 350 (cm) dimension variable, 2021
       
-    프리소스
-    최효정 〈I’ll Promise To Find The Way Out〉 2016~2020
+    Open Source Support(이 부분 수정중)
+      〈I’ll Promise To Find The Way Out〉 (최효정, 2016~2020)
+      https://kartsfaa.cargo.site/21765235
+  
   
   
   차연서
