@@ -126,11 +126,11 @@
   ₅
   
   안현진
-    ⎱ Consolidation 1 ⎱
+  ⎱ Consolidation 1 ⎱
     백자토, 가압성형, 산화번조, 부분시유 33x33x1.5(h)cm, 2021
-    ⎱ Consolidation 2 ⎱
+  ⎱ Consolidation 2 ⎱
     백자토, 가압성형, 산화번조, 부분시유 6x6x1(h)cm, 2021
-    ⎱ Chair, hair, air ⎱
+  ⎱ Chair, hair, air ⎱
     백자토, 가압성형, 물레성형, 저화도 유약 붓시유, 산화번조 35x55x35(h)cm
   
     References
