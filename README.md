@@ -56,22 +56,22 @@
   <br>
   
   ```
-  ₁
+   ₁
   
-  강예빈
-  ⎱ Sad family ⎱
-  Oil on canvas, 72.7x90.9cm, 2021
+   강예빈
+   ⎱ Sad family ⎱
+   Oil on canvas, 72.7x90.9cm, 2021
  
  
  
-  박주현
-  ⎱ Beside eggs ⎱
-  Digital print on paper, (미정), 박주현, 2021
+   박주현
+   ⎱ Beside eggs ⎱
+   Digital print on paper, (미정), 박주현, 2021
  
 
   
-  김해영
-    〈〉, 2022
+   김해영
+     〈〉, 2022
     
   ```
   
