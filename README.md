@@ -58,7 +58,6 @@
   ```
   ₁
   
-  
   강예빈
   ⎱ Sad family ⎱
   Oil on canvas, 72.7x90.9cm, 2021
