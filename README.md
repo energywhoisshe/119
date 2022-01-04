@@ -58,14 +58,22 @@
   ```
   ₁
   
-  박주현, 강예빈
-  ⎱ Beside eggs(가제) ⎱
-    ① Sad family, 2021, Oil on canvas, 72.7x90.9cm, 강예빈
-    ② I aimed, but failed, as expected, 2021, Pencil on paper, (미정) , 강예빈
-    ③ (미정), 2021, digital print on paper, (미정), 박주현
+  
+  강예빈
+  ⎱ Sad family ⎱
+  Oil on canvas, 72.7x90.9cm, 2021
+ 
+ 
+ 
+  박주현
+  ⎱ Beside eggs ⎱
+  Digital print on paper, (미정), 박주현, 2021
+ 
+
   
   김해영
     〈〉, 2022
+    
   ```
   
 ![image](https://user-images.githubusercontent.com/90887934/147026362-bf478898-5a47-4eca-841f-a2275afb278e.png)
