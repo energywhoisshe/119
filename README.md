@@ -142,10 +142,14 @@
   ₄
   
   유명민
-    〈〉, 2022
-  
+  ⎱ Care Instruction of Silky Dream ⎱
+    Silk, silk screen on nylon, photo card Dimensions variable, 2021
+  ⎱ Canvas Window ⎱
+    Glass on canvas, 90.9 x 72.7cm , 2021
+    
   이윤수
-    〈〉, 2022
+  ⎱  ⎱
+    
   
   ```
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147026075-bd0d4f9c-639d-4187-ac5f-a38e77b76228.png)-->
