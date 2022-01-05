@@ -71,8 +71,11 @@
 
   
    김해영
-   ⎱  ⎱
-    Digital print, 2022
+   ⎱ Premature greying, quickening ⎱
+    디지털프린트, 레이저프린트 2022
+   ⎱ Premature greying, quickening ⎱
+    폴라로이드, 2021
+    
     
   ```
   
