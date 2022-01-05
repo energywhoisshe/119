@@ -213,10 +213,10 @@
   ⎱ { “파괴적인 엄마의 마음”, “생산적인 딸의 양자파동장”, “잠재적인 딸의 여자친구의 물리적인 구조육체” }; ⎱
     Interactive Random Fiction on PC, Unity game engine, 2022
   
-    사운드
+    Sound
       이상화 (stxrfxsh)
     
-    인용 및 참고 문헌
+    Quotation
       《EMDR 마음의 상처 치유하기 EMDR in the Treatment of Adults Abused as Children》(Laurel Parnell PhD, 김준기 외 2인 옮김, 수오서재, 2021) 
       《몸은 기억한다 The Body Keeps The Score》(Bessel van der Kolk M.D., 제효영 옮김, 을유문화사, 2016)
       《양자의학 Quantum Medicine 》(강길전, 돋을새김, 2013) 
@@ -236,7 +236,7 @@
       《쇠를 먹는 불가사리》(정하섭, 길벗어린이, 1999)
       《티벳 사자의 서》(파드마삼바바, 류시화, 정신세계사, 1995) 
     
-    연계 제작 지원
+    Support
       아트센터나비, 한국콘텐츠진흥원 2021 창의인재동반사업 Creative+ GAME CREW
   ```
   <!-- ![image](https://user-images.githubusercontent.com/90887934/147028402-ae7d82fa-4cb3-4cbf-abb7-ce970c5d6de4.png) -->
