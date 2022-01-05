@@ -72,7 +72,7 @@
   
    김해영
    ⎱  ⎱
-    , 2022
+    Digital print, 2022
     
   ```
   
@@ -130,8 +130,9 @@
     2021
   
   임다울 
-    〈〉, 2022
-    }
+  ⎱  ⎱
+    2022
+    
   ```
   
 ![image](https://user-images.githubusercontent.com/90887934/147028083-7d82398b-2dde-43e4-9da0-169c2adf7821.png)
@@ -149,7 +150,7 @@
     
   이윤수
   ⎱  ⎱
-    
+    2022
   
   ```
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147026075-bd0d4f9c-639d-4187-ac5f-a38e77b76228.png)-->
@@ -238,6 +239,7 @@
     
     Support
       아트센터나비, 한국콘텐츠진흥원 2021 창의인재동반사업 Creative+ GAME CREW
+      
   ```
   <!-- ![image](https://user-images.githubusercontent.com/90887934/147028402-ae7d82fa-4cb3-4cbf-abb7-ce970c5d6de4.png) -->
 
