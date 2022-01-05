@@ -71,12 +71,11 @@
 
   
    김해영
+   ⎱ 김찬휘 카메라 ⎱
+    폴라로이드, 2022
    ⎱ Premature greying, quickening ⎱
-    디지털프린트, 레이저프린트 2022
-   ⎱ Premature greying, quickening ⎱
-    폴라로이드, 2021
-    
-    
+    디지털프린트, 레이저프린트 2021
+   
   ```
   
 ![image](https://user-images.githubusercontent.com/90887934/148156554-47847fca-5b8d-4707-88d0-e403919c381a.png)
