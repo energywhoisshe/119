@@ -145,7 +145,7 @@
   ⎱ Care Instruction of Silky Dream ⎱
     Silk, silk screen on nylon, photo card Dimensions variable, 2021
   ⎱ Canvas Window ⎱
-    Glass on canvas, 90.9 x 72.7cm , 2021
+    Glass on canvas, 90.9 x 72.7cm, 2021
     
   이윤수
   ⎱  ⎱
