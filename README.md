@@ -157,8 +157,12 @@
     Glass on canvas, 90.9 x 72.7cm, 2021
     
   이윤수
-  ⎱  ⎱
-    2022
+  ⎱ 15F ⎱
+    캔버스에 유성펜, 65.1cm x 53cm, 2022
+  ⎱ 15M ⎱
+    캔버스에 유성펜, 65.1cm x 53cm, 2022
+  ⎱ Crossroad ⎱
+     캔버스에 아크릴, 50cm x 72.7cm, 2021
   
   ```
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147026075-bd0d4f9c-639d-4187-ac5f-a38e77b76228.png)-->
