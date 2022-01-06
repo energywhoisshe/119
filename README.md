@@ -24,3 +24,7 @@ Mosquitojuice 모스키토쥬스
 ```
 Info <https://www.instagram.com/this_is_not_a_church/>
 Contact <energywhoisshe@gmail.com>
+
+1월 19일부터 온라인으로 보다 자세한 내용을 확인할 수 있습니다.
+
+안녕하세요? 또 들러주세요. 
