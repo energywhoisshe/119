@@ -20,8 +20,5 @@
 2021 K-Arts ON-Road 창작공모사업 선정작  
 주최/주관 : 한국예술종합학교   제작지원 : 한국예술종합학교 공연전시센터
 ```
-
-
-https://www.instagram.com/this_is_not_a_church/
-
-contact energywhoisshe@gmail.com
+Info <https://www.instagram.com/this_is_not_a_church/>
+Contact <energywhoisshe@gmail.com>
