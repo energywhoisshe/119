@@ -37,6 +37,7 @@ Performer Offerings 퍼포머 제공
 공간디자인 김혜정
 미디어 설치 올미디어 
 기록 촬영 김해영
+
 Special Thanks to Team JUICY MOSQUITO(2020)
 ```
 
