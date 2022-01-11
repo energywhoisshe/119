@@ -4,6 +4,7 @@ Every Mosquito Feels the Same
 차연서 개인전
 
 TINC 삼선동4가37 (구)명성교회 [12.00-18.00]
+https://energywhoisshe.github.io/119/
 
 Mosquitojuice 모스키토쥬스
 "salt" + "light" + "not a church" 소금 빛 교회가 아님
