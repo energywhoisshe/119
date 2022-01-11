@@ -30,7 +30,7 @@ Performer Offerings 퍼포머 제공
 당신의 그 편향된 눈은 평화롭기 때문에
 당신의 부은 눈이 자랑스럽기 때문에
 
-기획/전시 차연서
+기획/전시 차연서 energywhoisshe@gmail.com
 웹/텍스트/디자인 차연서
 직접 협력 강예빈 박주현 김해영 이상화 이솔엽 박민영 임다울 유명민 이윤수 안현진 최혜라 김호정
 간접 협력 최효정
@@ -40,9 +40,6 @@ Performer Offerings 퍼포머 제공
 Special Thanks to Team JUICY MOSQUITO(2020)
 ```
 
-Info <https://www.instagram.com/this_is_not_a_church/>
-Contact <energywhoisshe@gmail.com>
-
-1월 19일부터 온라인으로 보다 자세한 내용을 확인할 수 있습니다.
+1월 19일부터 보다 자세한 내용을 확인할 수 있습니다.
 
 안녕하세요? 또 들러주세요. 
