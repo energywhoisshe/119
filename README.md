@@ -15,9 +15,6 @@ Performer Offerings 퍼포머 제공
     ₅ 안현진 최혜라
     ₆ 김호정
 
-2021 K-Arts ON-Road 창작공모사업 선정작
-주최/주관 : 한국예술종합학교   제작지원 : 한국예술종합학교 공연전시센터
-
 모기의 뺨과 내 손바닥이 잠시간 서로를 타격해요.
 사실, 모기의 손바닥이 내 뺨을 갈겨요.
 모기가 나에게 그의 여섯 개의 입술을 삽입하는 순간 우리는
@@ -35,7 +32,11 @@ Performer Offerings 퍼포머 제공
 미디어 설치 올미디어 
 기록 촬영 김해영
 Special Thanks to Team JUICY MOSQUITO(2020)
+
+2021 K-Arts ON-Road 창작공모사업 선정작
+주최/주관 : 한국예술종합학교   제작지원 : 한국예술종합학교 공연전시센터
 ```
+
 Info <https://www.instagram.com/this_is_not_a_church/>
 Contact <energywhoisshe@gmail.com>
 
