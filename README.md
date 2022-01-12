@@ -33,6 +33,5 @@ Special Thanks to Team JUICY MOSQUITO(2020)
 * energywhoisshe.github.io/119
 ```
 
-1월 19일부터 온라인에서 전시 정보를 확인 할 수 있습니다. 
 
 안녕하세요? 또 들러주세요.
