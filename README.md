@@ -1,5 +1,4 @@
-![Sensory hair](https://user-images.githubusercontent.com/90887934/149325353-c72ccc13-7e83-46a7-ae6c-f65540d34b0d.png)
-
+![Sensory hair](https://user-images.githubusercontent.com/90887934/149336786-b8b2ad3d-b0a9-451b-be96-577f1306958b.png)
 
 ```
 Every mosquito feels the same
