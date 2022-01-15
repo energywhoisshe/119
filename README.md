@@ -33,4 +33,5 @@ Special Thanks to Team JUICY MOSQUITO(2020)
 ```
 
 
+1월 19일에 업데이트됩니다. 
 안녕하세요? 또 들러주세요.
