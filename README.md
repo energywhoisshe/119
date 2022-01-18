@@ -170,7 +170,7 @@ void Mosquitojuice()
   
     임다울 Rheem, Daul
     ⎱ 뒷오른팔 (장미 문신) Hind Right Arm (Rose Tattoo) ⎱
-      혼합 매체 Mixed Media, 가변 크기 Dimensions Variable, 2019-2022
+      혼합 매체 & 스마트 디바이스 Mixed Media & Smart Device, 가변 크기 Dimensions Variable, 2019-2022
     
       References
       윤국병 『민족문화대백과사전』-「분재」, 한국중앙연구원, 1997.
