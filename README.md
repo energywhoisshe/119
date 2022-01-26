@@ -82,7 +82,7 @@ void Mosquitojuice()
 ![DSC09891_수정3](https://user-images.githubusercontent.com/90887934/151188453-ff5c2d5d-9780-4da7-8d03-4dbdfe51ac9c.jpg)
 ![DSC09895](https://user-images.githubusercontent.com/90887934/151187893-71024124-1d80-478a-9a95-b95bbf77f5c4.jpg)
 
-###### (순서대로) 박주현, 강예빈, 김해영 
+###### (순서대로) Mosquitojuice, 박주현, 강예빈, 김해영 
 
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147029494-2b903b06-7ea4-4ca3-a1aa-ba9fb1bffc43.png) -->
 
