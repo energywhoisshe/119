@@ -316,7 +316,14 @@ void Mosquitojuice()
   }
   
   ```
-  <!-- ![image](https://user-images.githubusercontent.com/90887934/147028402-ae7d82fa-4cb3-4cbf-abb7-ce970c5d6de4.png) -->
+  
+![image](https://user-images.githubusercontent.com/90887934/147028402-ae7d82fa-4cb3-4cbf-abb7-ce970c5d6de4.png)
+![DSC09971](https://user-images.githubusercontent.com/90887934/151217824-2849b3ee-1da6-4c97-91a0-de2634fd7965.jpg)
+![DSC09977](https://user-images.githubusercontent.com/90887934/151217846-2ff463c1-b707-42f6-825a-02a3fcc739a3.jpg)
+
+<br>
+<br>
+<br>
 
 ![How to play](https://user-images.githubusercontent.com/90887934/149954980-e73099f3-e3e1-4305-8b7c-b07b9e5c876a.png)
 
