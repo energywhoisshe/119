@@ -74,15 +74,13 @@ void Mosquitojuice()
  
   ```
   
-<!-- ![image](https://user-images.githubusercontent.com/90887934/148156554-47847fca-5b8d-4707-88d0-e403919c381a.png) -->
-
+![image](https://user-images.githubusercontent.com/90887934/148156554-47847fca-5b8d-4707-88d0-e403919c381a.png)
 ![image](https://user-images.githubusercontent.com/90887934/147026362-bf478898-5a47-4eca-841f-a2275afb278e.png)
-![DSC09955](https://user-images.githubusercontent.com/90887934/151186708-48f9045d-62a1-4f4e-98f8-a8b8fbc5ef61.jpg)
 ![DSC09810](https://user-images.githubusercontent.com/90887934/151187737-f782d530-5313-4ea8-9f18-54d00aa34848.jpg)
 ![DSC09891_수정3](https://user-images.githubusercontent.com/90887934/151188453-ff5c2d5d-9780-4da7-8d03-4dbdfe51ac9c.jpg)
 ![DSC09895](https://user-images.githubusercontent.com/90887934/151187893-71024124-1d80-478a-9a95-b95bbf77f5c4.jpg)
 
-###### (순서대로) Mosquitojuice, 박주현, 강예빈, 김해영
+###### (순서대로) 박주현, 강예빈, 김해영
 
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147029494-2b903b06-7ea4-4ca3-a1aa-ba9fb1bffc43.png) -->
 
@@ -319,10 +317,6 @@ void Mosquitojuice()
   <!-- ![image](https://user-images.githubusercontent.com/90887934/147028402-ae7d82fa-4cb3-4cbf-abb7-ce970c5d6de4.png) -->
 
 ![How to play](https://user-images.githubusercontent.com/90887934/149954980-e73099f3-e3e1-4305-8b7c-b07b9e5c876a.png)
-![DSC09977](https://user-images.githubusercontent.com/90887934/151193367-c8d03bf3-7a3d-4197-b53a-7c1d42ebf361.jpg)
-![DSC09971](https://user-images.githubusercontent.com/90887934/151193218-b1a2c349-53dc-4625-8175-e0fd2b4d561d.jpg)
-
-###### (순서대로) 차연서, 김호정
 
 <br>
 <br>
