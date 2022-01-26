@@ -321,6 +321,8 @@ void Mosquitojuice()
 ![DSC09971](https://user-images.githubusercontent.com/90887934/151217824-2849b3ee-1da6-4c97-91a0-de2634fd7965.jpg)
 ![DSC09977](https://user-images.githubusercontent.com/90887934/151217846-2ff463c1-b707-42f6-825a-02a3fcc739a3.jpg)
 
+###### (순서대로) 김호정, 차연서
+
 <br>
 <br>
 <br>
