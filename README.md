@@ -220,7 +220,7 @@ void Mosquitojuice()
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147026075-bd0d4f9c-639d-4187-ac5f-a38e77b76228.png)-->
 ![image](https://user-images.githubusercontent.com/90887934/147027613-78e5bbd5-407e-4583-b123-0f37e190417a.png)
 ![DSC09905](https://user-images.githubusercontent.com/90887934/151190448-b92511f1-6ebf-4ea2-937d-a7d68aaa40ca.jpg)
-![DSC09837](https://user-images.githubusercontent.com/90887934/151190387-f3a8d687-8c14-4c2f-aa81-cb1b0bcf620b.jpg)
+<!-- ![DSC09837](https://user-images.githubusercontent.com/90887934/151190387-f3a8d687-8c14-4c2f-aa81-cb1b0bcf620b.jpg) -->
 
 
 <br>
