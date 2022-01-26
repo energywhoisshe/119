@@ -82,6 +82,7 @@ void Mosquitojuice()
 ![DSC09891_수정3](https://user-images.githubusercontent.com/90887934/151188453-ff5c2d5d-9780-4da7-8d03-4dbdfe51ac9c.jpg)
 ![DSC09895](https://user-images.githubusercontent.com/90887934/151187893-71024124-1d80-478a-9a95-b95bbf77f5c4.jpg)
 
+###### (순서대로) 박주현, 강예빈, 김해영 
 
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147029494-2b903b06-7ea4-4ca3-a1aa-ba9fb1bffc43.png) -->
 
@@ -135,6 +136,8 @@ void Mosquitojuice()
     
 ![image](https://user-images.githubusercontent.com/90887934/147027011-1a504c48-8e6f-42a1-808b-0b7143785078.png)
 ![DSC09827](https://user-images.githubusercontent.com/90887934/151188782-9f299a97-462a-4e3b-98b9-1ac10405b6ba.jpg)
+
+###### (좌) 이솔엽, (우) 이상화
 
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147028676-80ac712a-64ff-4339-99f4-84afaaebd249.png) -->
 
@@ -194,6 +197,7 @@ void Mosquitojuice()
 ![DSC09869](https://user-images.githubusercontent.com/90887934/151189455-72b5e04e-4452-4160-9d78-225c098d8464.jpg)
 ![DSC09857](https://user-images.githubusercontent.com/90887934/151189807-76b35476-f30f-488e-8119-eb81fcf62a9f.jpg)
 
+###### (순서대로) 박민영, 임다울
 
 <br>
 <br>
@@ -222,6 +226,7 @@ void Mosquitojuice()
 ![DSC09905](https://user-images.githubusercontent.com/90887934/151190448-b92511f1-6ebf-4ea2-937d-a7d68aaa40ca.jpg)
 <!-- ![DSC09837](https://user-images.githubusercontent.com/90887934/151190387-f3a8d687-8c14-4c2f-aa81-cb1b0bcf620b.jpg) -->
 
+###### (좌) 유명민, (우) 이윤수
 
 <br>
 <br>
@@ -259,6 +264,8 @@ void Mosquitojuice()
   ```
 ![image](https://user-images.githubusercontent.com/90887934/147025766-b7440ce0-e28e-40ae-b425-3fec95c5682a.png)
 ![DSC09818](https://user-images.githubusercontent.com/90887934/151192820-a722182f-59c3-4622-bd16-3a3d46b6bd6a.jpg)
+
+###### (좌) 최혜라, (우) 안현진
 
 <br>
 <br>
@@ -314,6 +321,8 @@ void Mosquitojuice()
 ![How to play](https://user-images.githubusercontent.com/90887934/149954980-e73099f3-e3e1-4305-8b7c-b07b9e5c876a.png)
 ![DSC09977](https://user-images.githubusercontent.com/90887934/151193367-c8d03bf3-7a3d-4197-b53a-7c1d42ebf361.jpg)
 ![DSC09971](https://user-images.githubusercontent.com/90887934/151193218-b1a2c349-53dc-4625-8175-e0fd2b4d561d.jpg)
+
+###### (순서대로) 차연서, 김호정
 
 <br>
 <br>
