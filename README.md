@@ -25,7 +25,7 @@ void Mosquitojuice()
       six();
 }
   ```
-    
+  
   ![6 lips](https://user-images.githubusercontent.com/90887934/149959283-58aeca90-289d-4464-8ec9-1be507554247.png)
 
 <br>
@@ -74,8 +74,14 @@ void Mosquitojuice()
  
   ```
   
-![image](https://user-images.githubusercontent.com/90887934/148156554-47847fca-5b8d-4707-88d0-e403919c381a.png)
+<!-- ![image](https://user-images.githubusercontent.com/90887934/148156554-47847fca-5b8d-4707-88d0-e403919c381a.png) -->
+
 ![image](https://user-images.githubusercontent.com/90887934/147026362-bf478898-5a47-4eca-841f-a2275afb278e.png)
+![DSC09955](https://user-images.githubusercontent.com/90887934/151186708-48f9045d-62a1-4f4e-98f8-a8b8fbc5ef61.jpg)
+![DSC09810](https://user-images.githubusercontent.com/90887934/151187737-f782d530-5313-4ea8-9f18-54d00aa34848.jpg)
+![DSC09891_수정3](https://user-images.githubusercontent.com/90887934/151188453-ff5c2d5d-9780-4da7-8d03-4dbdfe51ac9c.jpg)
+![DSC09895](https://user-images.githubusercontent.com/90887934/151187893-71024124-1d80-478a-9a95-b95bbf77f5c4.jpg)
+
 
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147029494-2b903b06-7ea4-4ca3-a1aa-ba9fb1bffc43.png) -->
 
@@ -128,7 +134,10 @@ void Mosquitojuice()
   ```
     
 ![image](https://user-images.githubusercontent.com/90887934/147027011-1a504c48-8e6f-42a1-808b-0b7143785078.png)
+![DSC09827](https://user-images.githubusercontent.com/90887934/151188782-9f299a97-462a-4e3b-98b9-1ac10405b6ba.jpg)
+
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147028676-80ac712a-64ff-4339-99f4-84afaaebd249.png) -->
+
 
 <br>
 <br>
@@ -182,6 +191,10 @@ void Mosquitojuice()
   ```
   
 ![image](https://user-images.githubusercontent.com/90887934/147028083-7d82398b-2dde-43e4-9da0-169c2adf7821.png)
+![DSC09869](https://user-images.githubusercontent.com/90887934/151189455-72b5e04e-4452-4160-9d78-225c098d8464.jpg)
+![DSC09926](https://user-images.githubusercontent.com/90887934/151189443-ee03457c-389b-4d33-843b-b564d46fcd68.jpg)
+![DSC09857](https://user-images.githubusercontent.com/90887934/151189807-76b35476-f30f-488e-8119-eb81fcf62a9f.jpg)
+
 
 <br>
 <br>
@@ -207,6 +220,9 @@ void Mosquitojuice()
   ```
 <!-- ![image](https://user-images.githubusercontent.com/90887934/147026075-bd0d4f9c-639d-4187-ac5f-a38e77b76228.png)-->
 ![image](https://user-images.githubusercontent.com/90887934/147027613-78e5bbd5-407e-4583-b123-0f37e190417a.png)
+![DSC09905](https://user-images.githubusercontent.com/90887934/151190448-b92511f1-6ebf-4ea2-937d-a7d68aaa40ca.jpg)
+![DSC09837](https://user-images.githubusercontent.com/90887934/151190387-f3a8d687-8c14-4c2f-aa81-cb1b0bcf620b.jpg)
+
 
 <br>
 <br>
@@ -243,6 +259,7 @@ void Mosquitojuice()
   
   ```
 ![image](https://user-images.githubusercontent.com/90887934/147025766-b7440ce0-e28e-40ae-b425-3fec95c5682a.png)
+![DSC09818](https://user-images.githubusercontent.com/90887934/151192820-a722182f-59c3-4622-bd16-3a3d46b6bd6a.jpg)
 
 <br>
 <br>
@@ -296,6 +313,8 @@ void Mosquitojuice()
   <!-- ![image](https://user-images.githubusercontent.com/90887934/147028402-ae7d82fa-4cb3-4cbf-abb7-ce970c5d6de4.png) -->
 
 ![How to play](https://user-images.githubusercontent.com/90887934/149954980-e73099f3-e3e1-4305-8b7c-b07b9e5c876a.png)
+![DSC09977](https://user-images.githubusercontent.com/90887934/151193367-c8d03bf3-7a3d-4197-b53a-7c1d42ebf361.jpg)
+![DSC09971](https://user-images.githubusercontent.com/90887934/151193218-b1a2c349-53dc-4625-8175-e0fd2b4d561d.jpg)
 
 <br>
 <br>
