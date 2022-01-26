@@ -192,7 +192,6 @@ void Mosquitojuice()
   
 ![image](https://user-images.githubusercontent.com/90887934/147028083-7d82398b-2dde-43e4-9da0-169c2adf7821.png)
 ![DSC09869](https://user-images.githubusercontent.com/90887934/151189455-72b5e04e-4452-4160-9d78-225c098d8464.jpg)
-![DSC09926](https://user-images.githubusercontent.com/90887934/151189443-ee03457c-389b-4d33-843b-b564d46fcd68.jpg)
 ![DSC09857](https://user-images.githubusercontent.com/90887934/151189807-76b35476-f30f-488e-8119-eb81fcf62a9f.jpg)
 
 
