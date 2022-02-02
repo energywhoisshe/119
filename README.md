@@ -391,8 +391,6 @@ Special Thanks to Team JUICY MOSQUITO(2020)
 
 ###### 5 D. H. Lawrence의 소설 ‘Lady Chatterley’s Lover’(1928)에서 자매 관계인 코니와 힐다는 이렇게 대화한다. ‘After all, Hilda,’ she(Connie) said, ‘love can be wonderful: when you feel you live, and are in the very middle of creation.’ It was almost like bragging on her part. ‘I suppose every mosquito feels the same,’ said Hilda. ‘Do you think it does? How nice for it!’
 
-[![2022/1/30 TINC](https://user-images.githubusercontent.com/90887934/152215194-1a993ad5-3e01-4a3e-8e51-a04807a88322.jpg)](https://vimeo.com/672791487)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fenergywhoisshe.github.io%2F119%2F&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=119&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
