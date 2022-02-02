@@ -371,7 +371,8 @@ TINC
 공간디자인 김혜정
 미디어 설치 올미디어
 미디어 지원 이상화, 박민영, 오승은
-기록 촬영 김해영
+사진 기록 김해영
+영상 기록 
 Special Thanks to Team JUICY MOSQUITO(2020)
 
 2021 K-Arts ON-Road 창작공모사업 선정작
