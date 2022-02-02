@@ -1,6 +1,5 @@
 ![Sensory hair](https://user-images.githubusercontent.com/90887934/149955420-5c91e201-9586-442d-b813-d359056a14ff.png)
 [![2022/1/30 TINC](https://user-images.githubusercontent.com/90887934/152185253-1bcc0e63-8e95-4f06-9c79-7cfdaf2c9b53.jpg)](https://vimeo.com/672791487)
-[![2022/1/30 TINC](https://user-images.githubusercontent.com/90887934/152215194-1a993ad5-3e01-4a3e-8e51-a04807a88322.jpg)](https://vimeo.com/672791487)
 
 <br>
 <br>
@@ -391,6 +390,8 @@ Special Thanks to Team JUICY MOSQUITO(2020)
 ###### 4 베를린 ‘House of Egorn’의 전시 ‘Longan’(27 April - 1 June 2019)에서 Evelyn Taocheng Wang, Quotes 3, ink on rice paper, 90 × 96,5 cm, 2019; ink on A4 print paper, 21 x 29,7cm, 2019 에 인용된 문구 “I suppose every mosquito feels the same”을 목격한 후부터 이 프로젝트에 대한 미미한 씨앗이 생겨났다. (관련 웹페이지: <http://www.houseofegorn.com/index.php/2019/03/07/longan/> )
 
 ###### 5 D. H. Lawrence의 소설 ‘Lady Chatterley’s Lover’(1928)에서 자매 관계인 코니와 힐다는 이렇게 대화한다. ‘After all, Hilda,’ she(Connie) said, ‘love can be wonderful: when you feel you live, and are in the very middle of creation.’ It was almost like bragging on her part. ‘I suppose every mosquito feels the same,’ said Hilda. ‘Do you think it does? How nice for it!’
+
+[![2022/1/30 TINC](https://user-images.githubusercontent.com/90887934/152215194-1a993ad5-3e01-4a3e-8e51-a04807a88322.jpg)](https://vimeo.com/672791487)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fenergywhoisshe.github.io%2F119%2F&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=119&edge_flat=false)](https://hits.seeyoufarm.com)
 
