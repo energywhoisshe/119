@@ -1,4 +1,5 @@
 ![Sensory hair](https://user-images.githubusercontent.com/90887934/149955420-5c91e201-9586-442d-b813-d359056a14ff.png)
+[![2022/1/30 TINC](https://user-images.githubusercontent.com/90887934/152185253-1bcc0e63-8e95-4f06-9c79-7cfdaf2c9b53.jpg)](https://vimeo.com/672791487)
 
 <br>
 <br>
@@ -19,7 +20,7 @@ void Mosquitojuice()
     
       one()
       two();
-      three();
+      three(); 
       four();
       five();
       six();
